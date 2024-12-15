@@ -1,4 +1,4 @@
-# Forecasting sales revenues and sales volume for an online retailer
+ # Forecasting sales revenues and sales volume for an online retailer
 
 ## Business context
 ### Online retailer based out of UK sells unique all-occasion gifts to customers in 37+ countries, many of whom are wholesalers
