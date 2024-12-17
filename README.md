@@ -73,7 +73,7 @@
 #### The revenue forecast model is directionally accurate and can help with financial planning 
 #### However given the relatively high forecasting error rate, CFO and the Finance organization should create financial models with mechanisms to mitgate risk 
 ##### Need to use financial tools such as "revolving credit" and  "short term debt" to mitigate credit and liquidity risk and be able to fund growth of the business
-### Sales Volume forecast model using LSTM was able to generate forecast with accuracy of ~66% for the test period 
+### Sales Volume forecast model using bidirectional LSTM was able to generate forecast with accuracy of ~66% for the test period 
 #### The revenue forecast model is directionally accurate and can help with supply chain and inventory planning 
 #### However given the relatively high forecasting error rate, COO and the Supply Chain organization should develop mechanisms to build more agility and resilience in the supply chain
 ##### Plan for adequate safety stock for "critical SKUs" - typically high volume and high margin SKUs
