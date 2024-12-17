@@ -3,7 +3,8 @@
 ## Business context
 ### Online retailer based out of UK sells unique all-occasion gifts to customers in 37+ countries, many of whom are wholesalers
 ### More than 90% of sales of retailer are in UK, remaining 10% are to 36+ country mainly in Europe
-### Over two years retailer sold xxxx SKUs, 
+### Over the one year perior retailer sold 5.17M items and recorded $9.74M in total sales revenues
+### Over one year retailer sold 4070 distinct SKUs, top 100 SKUs represent 30% of sales
 
 ## Business problem - supporting robust growth through high volatility
 ### Online retailer experienced robust growth over the past 12 months with sales volume and revenue nearly increasing by 100%
