@@ -96,3 +96,43 @@
 #### Incorporate additional external market and macro economic data into the model - such as interest rates, GDP
 #### Deploy updated and improved model every 3 to 6 months
 
+## Forecasting model - project files
+### Project files details
+#### Data file: OnlineRetail.xlsx
+#### Jupyter Notebook: foreecasting_onlinesales_model_development.ipynb
+##### This notebook has details of how the model was developed, hyperparameter tuning and extensive data profiling and visualization
+##### This notebook can be edited to further develop and refine models
+#### Jupyter Notebook: foreecasting_onlinesales_final_model.ipynb
+##### This notebook has the optimized forecasting model for Sales Revenues and Sales Volume, it has visualization of key time series components of the data
+##### This notebook should be deployed to generate future forecasts
+##### This notebook should be updated with any updates to the optimized model and should be deployed
+
+## Forecasting model - Installation 
+
+### Google Colabs -based 
+#### Create a project directory and loading the Jupyter notebook
+##### Create a Google Drive project directory
+##### Upload the online_retail_model.ipynb file on to a Google Drive project directory
+#### Data set up: 
+##### Create the directory data/ under the Google Drive project directory
+##### Upload the  OnlineRetail.xslx onto the data directory
+
+### Local environment - based
+### Create a project directory and loading the Jupyter notebook
+#### Download foreecasting_onlinesales_model_development.jpnyb and foreecasting_onlinesales_final_model.ipynb file on to the project directory
+#### Upload files onto the Jupyter Notebook and open it
+### Data set up: 
+#### Create the directory data/ under the root directory of Jupypter Notebook
+#### Save the OnlineRetail.xslx file under this directory
+
+## Usage
+#### After setting up the data, you can run the Python code in the Jupyter notebook 
+#### Please note that if you are using Google Colabs - you need to provide permission to connect Google Drive and update the path
+#### Please note that if you are using local environment - you will need to comment the section of the code where it is mounting the Google Drive
+#### Please make sure the file path for the data file is updated
+#### The code has markdown sections that outline the approach of the analysis and can help you understand the logic
+#### Upon running the code, you will generate string outputs and plotly
+
+
+
+
